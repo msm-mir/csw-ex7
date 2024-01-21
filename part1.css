@@ -1,0 +1,25 @@
+@font-face {
+    font-family: vazir;
+    src: url(Vazir.woff2) format(woff2);
+}
+body{
+    font-family: vazir;
+    background-image: linear-gradient(to right, rgb(185, 124, 255), rgb(162, 164, 255));
+
+}
+#prg {
+    color: green;
+}
+div.div1 {
+    padding-right: 50px;
+}
+div.div2 {
+    padding-right: 100px;
+}
+div.div3 {
+    padding-right: 150px;
+}
+div.div4 {
+    color: rgb(255, 193, 105);
+    font-style: italic;
+}
